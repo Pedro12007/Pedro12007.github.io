@@ -19,4 +19,5 @@ hr {
 
 a {
     color: grey;
+    text-shadow: 5px 2px 4px white;
 }
