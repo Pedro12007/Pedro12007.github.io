@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    font-family: cursive;
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+    font-variant: small-caps;
+    text-align: center;
+    text-decoration: none;
+}
+h2 { color: whitesmoke;}
+hr {
+    color: grey;
+}
+a {
+    color: grey;
+}
