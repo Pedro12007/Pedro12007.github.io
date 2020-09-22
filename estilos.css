@@ -24,3 +24,10 @@ a {
     text-shadow: 10px 5px 20px gainsboro;
     text-decoration: none;
 }
+
+header {
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: silver;
+}
