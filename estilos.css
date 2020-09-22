@@ -12,6 +12,7 @@ body {
 h2 {
      color: whitesmoke;
      text-shadow: 10px 5px 30px whitesmoke;
+     letter-spacing: 4px;
 }
 
 hr {
