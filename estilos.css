@@ -20,4 +20,5 @@ hr {
 a {
     color: grey;
     text-shadow: 10px 5px 20px gainsboro;
+    text-decoration: none;
 }
