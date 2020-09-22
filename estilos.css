@@ -23,3 +23,7 @@ a {
     text-shadow: 10px 5px 20px gainsboro;
     text-decoration: none;
 }
+
+img {
+    text-shadow: 10px 5px 40px red;
+}
