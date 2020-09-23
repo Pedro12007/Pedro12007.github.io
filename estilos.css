@@ -27,7 +27,8 @@ a {
 
 header {
     padding: 10px;
-    border-style: solid;
-    border-width: 2px;
-    border-color: silver;
+    border-style: outset;
+    border-width: 4px;
+    border-color: blue;
+
 }
