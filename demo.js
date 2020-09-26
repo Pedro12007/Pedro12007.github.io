@@ -1,1 +1,0 @@
-alert("Esta pagina no es oficial.")
