@@ -26,8 +26,8 @@ a {
 }
 
 header {
-    padding: 0px;
+    border: 4px;
     border-style: outset;
-    border-width: 4px;
+    min-width: 500;
     border-color: red;
 }
