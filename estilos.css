@@ -31,3 +31,7 @@ header {
     min-width: 500;
     border-color: red;
 }
+
+ul { 
+    list-style-type: square;
+}
