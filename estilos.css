@@ -17,6 +17,7 @@ h2 {
 
 hr {
     color: grey;
+    box-shadow: 1px 3px 6px grey;
 }
 
 a {
@@ -25,13 +26,17 @@ a {
     text-decoration: none;
 }
 
-header {
-    border: 4px;
-    border-style: outset;
-    min-width: 500;
-    border-color: red;
-}
-
 ul { 
     list-style-type: square;
+}
+
+.stylelist {
+    font-size: 28px;
+    list-style-type: none;
+    display: inline;
+    border: 2px;
+    border-color: black;
+    position: static;
+    left: 100px;
+    margin: 55px;
 }
