@@ -31,14 +31,14 @@ ul {
 }
 
 .stylelist {
-    font-size: 28px;
+    font-size: 20px;
     list-style-type: none;
     display: inline;
     border: 2px;
     border-color: black;
     position: static;
     left: 100px;
-    margin: 55px;
+    margin: 73px;
 }
 
 .size {
