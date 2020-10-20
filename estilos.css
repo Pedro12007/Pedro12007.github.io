@@ -1,46 +1,23 @@
-body {
-    background-color: black;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
-    font-weight: bold;
-    color: white;
-    font-variant: small-caps;
-    text-align: center;
-    text-decoration: none;
+body{
+  margin: 0px;
+  padding: 0px;
 }
 
-h2 {
-     color: whitesmoke;
-     text-shadow: 10px 5px 30px whitesmoke;
-     letter-spacing: 4px;
+#titulo {
+  color: red;
 }
 
-hr {
-    color: grey;
-    box-shadow: 1px 3px 6px grey;
+p {
+  text-align: center;
 }
 
-a {
-    color: grey;
-    text-shadow: 10px 5px 20px gainsboro;
-    text-decoration: none;
+div {
+  padding-left: 50%;
+  padding-right: 50%;
+  
 }
 
-ul { 
-    list-style-type: square;
-}
-
-.stylelist {
-    font-size: 20px;
-    list-style-type: none;
-    display: inline;
-    border: 2px;
-    border-color: black;
-    position: static;
-    left: 100px;
-    margin: 73px;
-}
-
-.size {
-    font-size: larger;
+script {
+  text-align: center;
+  font-size: large;
 }
