@@ -47,4 +47,5 @@ if (pregunta1 === 1) {
     División()
 } else {
     alert("ERROR")
+    document.write("Error, no has puesto una operación existente.")
 }

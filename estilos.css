@@ -13,11 +13,15 @@ p {
 
 div {
   padding-left: 50%;
-  padding-right: 50%;
+  padding-right: 25%;
   
 }
 
 script {
   text-align: center;
   font-size: large;
+}
+
+.blue {
+  color: rgb(5, 3, 100);
 }
