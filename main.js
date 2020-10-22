@@ -1,49 +1,49 @@
 var pregunta = prompt("Qué operación escoges?")
-var pregunta1 = parseInt(pregunta)
+pregunta = parseInt(pregunta)
 
 function Suma() {
     var x = prompt("Escribe un número:")
-    var x1 = parseInt(x)
+    x = parseInt(x)
     var y = prompt("Escribe otro número:")
-    var y1 = parseInt(y)
+    y = parseInt(y)
 
-    document.write(x1 + y1)
+    document.write(x + y)
 }
 
 function Resta() {
     var x = prompt("Escribe un número:")
-    var x1 = parseInt(x)
+    x = parseInt(x)
     var y = prompt("Escribe otro número:")
-    var y1 = parseInt(y)
+    y = parseInt(y)
 
-    document.write(x1 - y1)
+    document.write(x - y)
 }
 
 function Multiplicación() {
     var x = prompt("Escribe un número:")
-    var x1 = parseInt(x)
+    x = parseInt(x)
     var y = prompt("Escribe otro número:")
-    var y1 = parseInt(y)
+    y = parseInt(y)
 
-    document.write(x1 * y1)
+    document.write(x * y)
 }
 
 function División() {
     var x = prompt("Escribe un número:")
-    var x1 = parseInt(x)
+    x = parseInt(x)
     var y = prompt("Escribe otro número:")
-    var y1 = parseInt(y)
+    y = parseInt(y)
 
-    document.write(x1 / y1)
+    document.write(x / y)
 }
 
-if (pregunta1 === 1) {
+if (pregunta === 1) {
     Suma()
-} else if (pregunta1 === 2) {
+} else if (pregunta === 2) {
     Resta()
-} else if (pregunta1 === 3){
+} else if (pregunta === 3){
     Multiplicación()
-} else if (pregunta1 === 4) {
+} else if (pregunta === 4) {
     División()
 } else {
     alert("ERROR")
