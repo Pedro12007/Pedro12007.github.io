@@ -1,4 +1,4 @@
-//calculadora con las cuatro operciones basicas
+//Calculadora con las cuatro operciones basicas
 
 var pregunta = prompt("Qué operación escoges?")
 pregunta = parseInt(pregunta)
