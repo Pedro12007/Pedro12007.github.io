@@ -1,3 +1,5 @@
+//calculadora con las cuatro operciones basicas
+
 var pregunta = prompt("Qué operación escoges?")
 pregunta = parseInt(pregunta)
 
@@ -47,5 +49,5 @@ if (pregunta === 1) {
     División()
 } else {
     alert("ERROR")
-    document.write("Error, no has puesto una operación existente.")
+    document.write("<p>Error, no has puesto una operación existente.</p>")
 }
