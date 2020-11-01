@@ -1,20 +1,11 @@
 body{
   margin: 0px;
   padding: 0px;
+  text-align: center;
 }
 
 #titulo {
   color: red;
-}
-
-p {
-  text-align: center;
-}
-
-div {
-  padding-left: 50%;
-  padding-right: 25%;
-  
 }
 
 .blue {
