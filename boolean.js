@@ -1,1 +1,0 @@
-document.write(<div class="aligncenter"></div>)
