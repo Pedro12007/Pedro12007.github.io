@@ -2,10 +2,11 @@ body{
   margin: 0px;
   padding: 0px;
   text-align: center;
+  background-color: #adadad;
 }
 
 #titulo {
-  color: red;
+  color: #fc0303;
 }
 
 .blue {
