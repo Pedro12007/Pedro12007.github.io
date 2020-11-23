@@ -1,14 +1,138 @@
 body{
-  margin: 0px;
-  padding: 0px;
+  margin: 0em;
+  padding: 0em;
+}
+
+.header {
+  background-color: #0cc5a0;
+}
+
+.titulo {
+  width: 100%;
+}
+
+h1 {
   text-align: center;
-  background-color: white;
+  font-family: Georgia, serif;
+  color: #424242;
 }
 
-#titulo {
-  color: #fc0303;
+h1:hover {
+  color: white;
 }
 
-.blue {
-  color: rgb(5, 3, 100);
+p {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.div_1 {
+  background-color: rgb(52, 196, 140);
+}
+
+.logo_html {
+  width: 10em;
+  margin-left: 35em;
+}
+
+.logo_css {
+  width: 7em;
+  margin-left: 36.5em;
+}
+
+.logo_py {
+  width: 9em;
+  margin-left: 35.5em;
+}
+
+.div_2 {
+  background-color: rgb(127, 255, 212);
+}
+
+.logo_js {
+  width: 9em;
+  margin-left: 35.5em;
+}
+
+.logo_sql {
+  width: 9em;
+  margin-left: 35.5em;
+}
+
+.div_3 {
+  background-color: #00cc66;
+}
+
+.logo_react {
+  width: 15em;
+  margin-left: 32.7em;
+}
+
+.logo_bootstrap {
+  width: 11em;
+  margin-left: 34.5em;
+}
+
+.logo_django {
+  width: 10em;
+  margin-left: 35.2em;
+}
+
+.div_4 {
+  background-color: #00e68a;
+}
+
+.logo_vs {
+  width: 8em;
+  margin-left: 36.2em;
+}
+
+.logo_git {
+  width: 11em;
+  margin-left: 34.5em;
+}
+
+.logo_gitkraken {
+  width: 11em;
+  margin-left: 35em;
+}
+
+.logo_cmder {
+  width: 11em;
+  margin-left: 35em;
+}
+
+.logo_firefox {
+  width: 9em;
+  margin-left: 35.8em;
+}
+
+.footer {
+  background-color: #242729;
+  color: rgb(187, 192, 196);
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1em;
+  width: 100%;
+  height: 10em;
+}
+
+.cuentas {
+  font-size: 0.9em;
+  text-align: left;
+  margin-bottom: 0.3em;
+  margin-left: 2.5em;
+  font-weight: 600;
+}
+
+.logo_platzi {
+  width: 1em;
+}
+
+.platzi_cuenta {
+  color: rgb(132, 141, 149);
+  text-decoration: none;
+}
+
+.platzi_cuenta:hover {
+  color: #d9d9d9;
 }
