@@ -32,17 +32,20 @@ p {
 
 .logo_html {
   width: 10em;
-  margin-left: 35em;
+  display: block;
+  margin: auto; 
 }
 
 .logo_css {
   width: 7em;
-  margin-left: 36.5em;
+  display: block;
+  margin: auto; 
 }
 
 .logo_py {
   width: 9em;
-  margin-left: 35.5em;
+  display: block;
+  margin: auto; 
 }
 
 .div_2 {
@@ -51,12 +54,14 @@ p {
 
 .logo_js {
   width: 9em;
-  margin-left: 35.5em;
+  display: block;
+  margin: auto; 
 }
 
 .logo_sql {
   width: 9em;
-  margin-left: 35.5em;
+  margin-left: 35.5em;display: block;
+  margin: auto; 
 }
 
 .div_3 {
@@ -64,18 +69,21 @@ p {
 }
 
 .logo_react {
-  width: 15em;
-  margin-left: 32.7em;
+  width: 14em;
+  display: block;
+  margin: auto; 
 }
 
 .logo_bootstrap {
   width: 11em;
-  margin-left: 34.5em;
+  display: block;
+  margin: auto; 
 }
 
 .logo_django {
   width: 10em;
-  margin-left: 35.2em;
+  display: block;
+  margin: auto; 
 }
 
 .div_4 {
@@ -84,27 +92,32 @@ p {
 
 .logo_vs {
   width: 8em;
-  margin-left: 36.2em;
+  display: block;
+  margin: auto; 
 }
 
 .logo_git {
   width: 11em;
-  margin-left: 34.5em;
+  display: block;
+  margin: auto; 
 }
 
 .logo_gitkraken {
   width: 11em;
-  margin-left: 35em;
+  display: block;
+  margin: auto; 
 }
 
 .logo_cmder {
   width: 11em;
-  margin-left: 35em;
+  display: block;
+  margin: auto; 
 }
 
 .logo_firefox {
   width: 9em;
-  margin-left: 35.8em;
+  display: block;
+  margin: auto; 
 }
 
 .footer {
