@@ -131,19 +131,23 @@ p {
 
 .cuentas {
   font-size: 0.9em;
-  text-align: left;
+  text-align: center;
   margin-bottom: 0.3em;
-  margin-left: 2.5em;
   font-weight: 600;
 }
 
 .logo_platzi {
   width: 1em;
+  display: inline;
+  margin: auto; 
+  margin-left: 44.4%;
 }
 
 .platzi_cuenta {
   color: rgb(132, 141, 149);
   text-decoration: none;
+  display: inline;
+  text-align: center;
 }
 
 .platzi_cuenta:hover {
